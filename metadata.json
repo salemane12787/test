@@ -1,0 +1,5 @@
+{
+  "name": "CMC Guide Preloader",
+  "description": "A simple and professional pre-loading page for a website. It displays a loading spinner and text, then smoothly fades out to reveal the main content once the page has loaded.",
+  "requestFramePermissions": []
+}
